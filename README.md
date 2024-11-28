@@ -48,7 +48,7 @@ Before setting up FreshBulk, ensure the following prerequisites are met:
 
 2. Navigate to the project directory:
    ```bash
-   cd Freshbulks
+   cd Freshbulks/src
    ```
 
 3. Install the required dependencies:
@@ -63,7 +63,7 @@ Before setting up FreshBulk, ensure the following prerequisites are met:
 
 5. Access the application in your browser:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ---
