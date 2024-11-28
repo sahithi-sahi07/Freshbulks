@@ -96,12 +96,6 @@ We welcome contributions to enhance FreshBulk! To contribute:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute as per the license terms.
-
----
-
 ## Author
 
 FreshBulk is developed and maintained by [Sahithi Sahi](https://github.com/sahithi-sahi07). For inquiries, reach out via GitHub or explore the live demo to see the platform in action.
